@@ -1,15 +1,11 @@
 <h1 align="center">Hi, I'm Nguyen Hoang Van</h1>
 <h3 align="center">A passionate Web developer from Ho Chi Minh City</h3>
 
-- I’m currently working on [Hafamex Fruit](https://github.com/Chuppisayyes/Hafamex_Fruit.git)
-
 - I’m currently learning **Blazor, ASP.NET**
 
 - Ask me about **Backend & Frontend**
 
 - How to reach me **phtnhvan8624@gmail.com**
-
-- Know about my experiences [https://drive.google.com/file/d/11Dr8n-kwCMb6mJ19ezrvfdZN6NdcMy3r/view?usp=sharing](https://drive.google.com/file/d/11Dr8n-kwCMb6mJ19ezrvfdZN6NdcMy3r/view?usp=sharing)
 
 - Fun fact ** Learning new tech stacks is my version of fun.**
   
